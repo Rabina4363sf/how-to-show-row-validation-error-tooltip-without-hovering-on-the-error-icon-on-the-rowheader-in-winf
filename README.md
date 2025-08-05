@@ -4,7 +4,7 @@
 
 This example illustrates how to show row validation error tooltip without hovering on the error icon on the RowHeader in WinForms DataGrid (SfDataGrid).
 
-By default, [WinForms DataGrid](https://www.syncfusion.com/winforms-ui-controls/datagrid) (SfDataGrid) displays validation error tooltip when hovering on the error icon in the row header cell. However, you can show tooltip immediately after the value is changed without hovering on the row header cell by using [SfToolTip](https://www.syncfusion.com/winforms-ui-controls/tooltip).
+By default, [WinForms DataGrid](https://www.syncfusion.com/winforms-ui-controls/datagrid) (SfDataGrid) displays validation error tooltip when hovering on the error icon in the row header cell. However, you can show tooltip immediately after the value is changed without hovering on the row header cell by using [Winforms ToolTip](https://www.syncfusion.com/winforms-ui-controls/tooltip) (SfToolTip).
 
 ```C#
 
